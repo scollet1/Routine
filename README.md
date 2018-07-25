@@ -1,2 +1,2 @@
 # Routine
-routinu
+Simple workout routine tracking in Python
